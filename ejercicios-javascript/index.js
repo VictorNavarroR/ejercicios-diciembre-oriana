@@ -203,8 +203,8 @@ function setBackground() {
     let p1 = document.body.children[1];
     let p2 = document.body.children[2];
     
-    p1.style.color = 'green';
-    p2.style.color = 'red';
+    p1.style.background = 'green';
+    p2.style.background = 'red';
 } 
 
 function createH1FromObj(obj)  {
